@@ -8,7 +8,7 @@ This project reads, logs, and visualizes CSV and Binary files.
 Processed data is saved into a SQL database (MySQL)
 Graphs and charts are generated using Python
 Compatible with multiple OS (Linux / Windows / Ubuntu / Kali)
-Features
+Features />
 CSV & Binary file handling
 SQL database integration
 Data visualization using Matplotlib
